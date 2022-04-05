@@ -4,6 +4,118 @@
     <list default="true" id="85edfc68-473b-4b32-ac3c-ecaed1f7adfc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Learning-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/A2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Abc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/AnaGram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Arr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/ArrayRot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Array_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/B2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/ConstructorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/DuplicateBySet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/DuplicateInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/DuplicateString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Fabo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Ideone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/MyArrayImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/MySingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Near.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/NumbersInRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/OddPlaceStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/OverRid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/PerfectSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Prime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/SecondLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Singal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Star.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/StarPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/StaticTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Str.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/StringINstr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/StringTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/SumA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/SumofDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/Tesy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Inter/XYZ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/EmployeeMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/HashMapItr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/KeyValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/LinkedHashMapOwn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/MapTEST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/MapTest11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/NameSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/SalSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/collection/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/db/BRDdb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/db/DB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/db/InsertImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/db/RetrieveImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/db/StoreFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/db/savePDFToDb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/db/vijay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/ds/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/ds/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/ds/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/BothDateAndTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/ConsumerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/DateAndTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/DefInter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/DobuleColonConst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/DoubleColon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/EmpShorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/IfCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Int1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Inteface1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Interf2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/LSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Lamda1$interf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Lamda1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/LamdaFunctionEmp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/LamdaTest$GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/LamdaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/ListWithLamda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Lmda$inter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Lmda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Multi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/MultiThread8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/PredicateExmp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Stream1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/SupplierExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/java8/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/json/JsonExp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/mail/SendEmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/regex/PatternMatchesExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/test/Array2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/test/ArraySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/test/ArraySort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/test/Test11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/AB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ABC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ABS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/Abst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/InsertImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ObjectAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ProducerConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ProducerConsumer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ProducerConsumer$PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ProducerConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ThreadByRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/th/ThreadSleep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java8/BothDateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/BothDateAndTime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +123,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/java8/BothDateAndTime.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -55,11 +175,56 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Softwares/Jars/json-simple-1.1.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PredicateExmp">
+    <configuration name="BothDateAndTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.BothDateAndTime" />
+      <module name="Learning-project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.json.JsonExp" />
+      <module name="Learning-project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.json.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateExmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.PredicateExmp" />
+      <module name="Learning-project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -82,6 +247,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PredicateExmp" />
+        <item itemvalue="Application.BothDateAndTime" />
+        <item itemvalue="Application.JsonExp" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -137,6 +309,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/db/InsertImage.java">

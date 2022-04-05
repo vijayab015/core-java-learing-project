@@ -19,7 +19,7 @@ public class BothDateAndTime {  // from here we can get both date and time from 
 		System.out.println("Date before 1 months" +dt.minusMonths(1));
 		
 		
-		//Period Calculation between 2 date
+		//Period Calculation between 2 date Example
 		
 		LocalDate todayDate=LocalDate.now();
 		
