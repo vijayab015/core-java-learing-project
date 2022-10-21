@@ -21,7 +21,7 @@ class  Greeting implements LamdaTest.GreetingService
 
 	@Override
 	public void sayMessage(String message) {
-		// TODO Auto-generated method stub
+
 		
 	}
 	

@@ -25,6 +25,7 @@ public class MySingleton {
         MySingleton ms1=new MySingleton();
         System.out.println(ms.equals(ms1));
         ms.testMe();
+        ms1.testMe();
         
     }
     
