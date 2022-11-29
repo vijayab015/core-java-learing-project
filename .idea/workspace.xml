@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85edfc68-473b-4b32-ac3c-ecaed1f7adfc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inter/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inter/WiproTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/EmployeeStreamDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/ListCountSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/ListProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inter/Arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inter/Arr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inter/DuplicateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inter/DuplicateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
