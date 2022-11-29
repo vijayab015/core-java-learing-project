@@ -2,28 +2,36 @@ package Inter;
 
 public class Arr {
 
-	public static void main(String[] args) {
-		int array[] = {1,3,5,-5,4,5,-4};
-        System.out.println(maxSum(array));
-		
-	}
-	public static int maxSum(int a[])
-	{
-		int size=a.length;
-		int max_end_here=0;
-		int max_till_now=0;
-		for(int i=0;i<size;i++)
-		{
-			max_end_here=max_end_here+a[i];
-			if(max_till_now < max_end_here)
-			  max_till_now =max_end_here;
-			
-			if(max_end_here < 0)
-				max_end_here=0;
-			
-				
-		}
-		return max_till_now;
-		
-	}
+/*
+	Array 1: 3,6,78,89,100
+	Array 2: 40,50,51,80,101
+
+			3-40
+			6 - 50
+			78 - 80
+			89 - 101
+*/
+public static void main(String[] args) {
+
+	int arr1[]={3,6,78,89,100};
+    int arr2[]={40,50,51,80,101};
+
+
+    for(int i=0;i<arr1.length;i++) {
+
+            if (arr1[i] < arr2[i]) {
+                System.out.println(arr1[i] + "-" + arr2[i]);
+
+        }
+            else if (arr1[i] < arr2[i+1]) {
+            System.out.println(arr1[i] + "-" + arr2[i+1]);
+           
+
+        }
+
+    }
+
+
+}
+
 }

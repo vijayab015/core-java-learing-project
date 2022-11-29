@@ -5,7 +5,7 @@ public class DuplicateString {
 	public static void main(String[] args) {
 		
 		
-		String s[]= {"vij","ajay","sym","vij"};
+		String s[]= {"vij","ajay","sym","vij","test","test"};
 		
 		for(int i=0;i<=s.length-1;i++)
 		{
